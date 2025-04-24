@@ -35,9 +35,9 @@ Tables created:
 ### Part 3: Data Analysis
 
 - Wrote and executed SQL queries to answer key questions about employee data, including:
-  - How many employees were hired in each decade?
-  - What were the most common job titles?
-  - Which employees were in specific departments during the 80s and 90s?
+  - The employee number, last name, first name, sex, and salary of each employee.
+  - The first name, last name, and hire date for the employees who were hired in 1986.
+  - The manager of each department along with their department number, department name, employee number, last name, and first name.
 
 ---
 
